@@ -1,10 +1,9 @@
 
 # Merry Christmas
 
+![Screenshot (113)](https://user-images.githubusercontent.com/94067118/147378644-f1c05dec-9a23-4436-9502-c1f09aa760da.png)
+
 Firstly, Merry Christmas! May your happiness be large and your be bills small. I created Christmas Project using simple HTML, CSS and JavaScript. So, check out this project and thank you for visit!
-
-
-
 
 ## Author
 
