@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+.tales {
+    width: 100%;
+    height: 500px;
+}
+.container .texts{
+    text-align: center;
+}
+.container .texts .title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    color: red;
+}
+.container .texts .para{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: gray;
+}
+.container .texts .poem{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px;
+    color: red;
+}
+.icon .img{
+    height: 230px;
+    width: 330px;
+}
+footer{
+    font-family: 'Poppins', sans-serif;
+}
+
+@media only screen and (max-width: 959px) {
+    .tales{
+        height: 450px;
+    }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+    .tales{
+        height: 400px;
+    }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    .tales{
+        height: 350px;
+    }
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media screen and (max-width: 479px) {
+    .tales{
+        height: 280px;
+    }
+}
